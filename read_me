@@ -1,0 +1,11 @@
+# Lien vers le git : https://github.com/mimouK18/laravel-test
+
+# Les commandes à utiliser pour lancer le projet : 
+## composer install
+## npm install
+## cp .env.example .env
+## php artisan key:generate
+## php artisan migrate
+## npm run dev
+## php artisan serve
+
